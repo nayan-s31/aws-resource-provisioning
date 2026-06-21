@@ -1,5 +1,8 @@
-
 ## Screenshots
+
+### Arcitecture
+
+![Architecture](screenshots/architecture.png)
 
 ### Combined Script Output
 
