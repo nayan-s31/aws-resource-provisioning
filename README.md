@@ -5,6 +5,7 @@
 This project automates the provisioning of AWS resources using Python and Boto3. Instead of manually creating resources through the AWS Management Console, the entire infrastructure can be provisioned using scripts.
 
 The project demonstrates Infrastructure as Code (IaC) concepts by automating the creation of:
+
 - Amazon S3 Buckets
 - AWS IAM Users
 - Amazon EC2 Instances
@@ -14,14 +15,17 @@ A combined automation script (provision_resources.py) provisions all resources i
 ## AWS Services Used
 
 ### Amazon S3
+
 - Create and manage S3 buckets
 - Store files and objects
 
 ### AWS IAM
+
 - Create IAM users
 - Manage permissions and access control
 
 ### Amazon EC2
+
 - Launch virtual servers
 - Automate infrastructure deployment
 
