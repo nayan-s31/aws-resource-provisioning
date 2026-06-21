@@ -17,55 +17,38 @@ A combined automation script (provision_resources.py) provisions all resources i
 - Create and manage S3 buckets
 - Store files and objects
 
-AWS IAM
-Create IAM users
-Manage permissions and access control
-Amazon EC2
-Launch virtual servers
-Automate infrastructure deployment
+### AWS IAM
+- Create IAM users
+- Manage permissions and access control
 
-Launch virtual servers
-Automate infrastructure deployment
-Technologies Used
-Python 3
-Boto3
-AWS CLI
-AWS IAM
-Amazon S3
-Amazon EC2
+### Amazon EC2
+- Launch virtual servers
+- Automate infrastructure deployment
 
-Features
-Automated S3 Bucket Creation
-Automated IAM User Creation
-Automated EC2 Instance Launch
-Error Handling using try-except blocks
-Logging Support
-Single Script Resource Provisioning
-
-Challenges Faced
+## Challenges Faced
 
 During development, the following AWS issues were encountered and resolved:
 
-IllegalLocationConstraintException
-Invalid AMI ID Error
-UEFI Boot Mode Compatibility Issue
-ARM64 vs x86_64 Architecture Mismatch
-EC2 UnauthorizedOperation Error
-IAM Permission Configuration
+1. IllegalLocationConstraintException
+2. Invalid AMI ID Error
+3. UEFI Boot Mode Compatibility Issue
+4. ARM64 vs x86_64 Architecture Mismatch
+5. EC2 UnauthorizedOperation Error
+6. IAM Permission Configuration
 
 These challenges provided hands-on experience in AWS troubleshooting and cloud resource management.
 
-Learning Outcomes
+## Learning Outcomes
 
 Through this project, I learned:
 
-AWS Infrastructure Automation
-Boto3 SDK Usage
-IAM User Management
-EC2 Provisioning
-S3 Bucket Management
-Error Handling in Cloud Automation
-Infrastructure as Code Concepts
+- AWS Infrastructure Automation
+- Boto3 SDK Usage
+- IAM User Management
+- EC2 Provisioning
+- S3 Bucket Management
+- Error Handling in Cloud Automation
+- Infrastructure as Code Concepts
 
 
 
