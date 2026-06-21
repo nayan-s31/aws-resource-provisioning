@@ -1,6 +1,6 @@
-AWS Resource Provisioning Automation using Python & Boto3
-Project Overview
+# AWS Resource Provisioning Automation using Python & Boto3
 
+## Project Overview
 This project automates the provisioning of AWS resources using Python and Boto3. Instead of manually creating resources through the AWS Management Console, the entire infrastructure can be provisioned using scripts.
 
 The project demonstrates Infrastructure as Code (IaC) concepts by automating the creation of:
